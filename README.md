@@ -1,5 +1,5 @@
 
-# 🔐 GUI Hash Generator (Python + Tkinter)
+# 🔐 CyberHash Generator (Python + Tkinter)
 
 A simple and interactive GUI application that takes user input and returns the MD5, SHA1, and SHA256 hashes of the string. Includes copy-to-clipboard functionality and saves the output to a text file.
 
@@ -19,8 +19,8 @@ A simple and interactive GUI application that takes user input and returns the M
 ### 1. Clone or Download This Repository
 
 ```bash
-git clone https://github.com/your-username/gui-hash-generator.git
-cd gui-hash-generator
+git clone https://github.com/newhallcyber/cyberhash-generator.git
+cd cyberhash-generator
 ```
 
 ### 2. Install Requirements
@@ -50,7 +50,7 @@ python -c "import pyperclip; print('pyperclip is working')"
 ### 3. Run the App
 
 ```bash
-python gui_hash_generator.py
+python cyberhash_generator.py
 ```
 
 A window will pop up. Type a string, click "Generate Hashes", and you'll see all three hashes displayed with "Copy" buttons.
@@ -89,9 +89,9 @@ _(Add a screenshot of your GUI here to show what it looks like)_
 
 ## 👨‍💻 Author
 
-Created by Newhallcyber  
-GitHub: https://github.com/newhallcyber) 
-LinkedIn: https://www.linkedin.com/in/stevenellsworthnewhall/
+Created by [Newhallcyber]  
+GitHub: [github.com/newhallcyber](https://github.com/newhallcyber)  
+LinkedIn: [linkedin.com/in/stevenellsworthnewhall](https://www.linkedin.com/in/stevenellsworthnewhall/)
 
 ---
 
