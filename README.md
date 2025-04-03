@@ -75,7 +75,8 @@ If `pyperclip` isn’t working:
 
 ## 📁 Example Screenshot
 
-_(Add a screenshot of your GUI here to show what it looks like)_
+![image](https://github.com/user-attachments/assets/d5380fc7-0756-4652-ba2a-f45b3ebacdc8)
+
 
 ---
 
@@ -89,7 +90,7 @@ _(Add a screenshot of your GUI here to show what it looks like)_
 
 ## 👨‍💻 Author
 
-Created by [Newhallcyber]  
+Created by Newhallcyber
 GitHub: [github.com/newhallcyber](https://github.com/newhallcyber)  
 LinkedIn: [linkedin.com/in/stevenellsworthnewhall](https://www.linkedin.com/in/stevenellsworthnewhall/)
 
