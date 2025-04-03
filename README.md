@@ -89,9 +89,9 @@ _(Add a screenshot of your GUI here to show what it looks like)_
 
 ## 👨‍💻 Author
 
-Created by [Your Name]  
-GitHub: [github.com/your-username](https://github.com/your-username)  
-LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+Created by Newhallcyber  
+GitHub: https://github.com/newhallcyber) 
+LinkedIn: https://www.linkedin.com/in/stevenellsworthnewhall/
 
 ---
 
