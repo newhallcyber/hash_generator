@@ -15,3 +15,16 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+def generate_hashes(text):
+    md5 = hashlib.md5(text.encode()).hexdigest()
+    sha1 = hashlib.sha1(text.encode()).hexdigest()
+    sha256 = hashlib.sha256(text.encode()).hexdigest()
+
+    with open("hashes.txt", "w") as f:
+        f.write(f"Input: {text}\n")
+        f.write(f"MD5:     {md5}\n")
+        f.write(f"SHA1:    {sha1}\n")
+        f.write(f"SHA256:  {sha256}\n")
+
+    print("\n[+] Hashes saved to hashes.txt")
