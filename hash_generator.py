@@ -29,7 +29,7 @@ def copy_hash(value):
 
 # Set up GUI
 root = tk.Tk()
-root.title("Hash Generator")
+root.title("Cyber's Hash Generator")
 root.geometry("600x300")
 root.resizable(False, False)
 
